@@ -87,8 +87,5 @@ body{
       
        flex-wrap: wrap;
    }
-   .info ul li{
-      
-       float: left;
-   }
+  
 }
