@@ -8,4 +8,6 @@ click on the images of the applications then taken to that deployed application.
 resize the page or view the site on various screens and devices
 THEN  presented with a responsive layout that adapts to my viewport
 
-Link for  deployed application: https://github.com/SSinghcode/project2
+Link for  deployed application:  https://ssinghcode.github.io/project2/
+
+The URL of the GitHub repository:https://github.com/SSinghcode/project2
