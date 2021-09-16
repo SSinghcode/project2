@@ -87,7 +87,7 @@ body{
     margin-top:100px ;
 }
 
-@media only screen and (max-width:798px) {
+@media only screen and (max-width:768px) {
     .img2{
         display:none;
         
@@ -130,8 +130,4 @@ body{
   .head{
       margin: 40px;
       text-align: center;
-  }
-  .work{
-      color
-  }
-}
+  }}
